@@ -180,7 +180,7 @@ Note: You can generate your custom classes  for any specific HTML elements too w
 }
 ```
 
-- add built-in `theme-toggle-btn` class to your button to make it toggling like default toggle button. it is not required to add this class. you can design your toggle button as you want with your custom class just like above.
+- add built-in `theme-toggle-btn` class to your button to make it toggling like default toggle button provided by library. it is not required to add this class. you can design your toggle button as you want with your custom class just like above.
   `<button class="theme-toggle-btn" data-newtheme="blue"> change to blue</button>`
 
 ### Toggle Button has 3 Attributes

@@ -74,7 +74,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 
 1. add a button for toggling your custom color theme with `data-newtheme`, `data-beforetitle, data-aftertitle` attribute. Here `data-newtheme` attribute is `required` other two are optional.[know more about toggle button](#toggle-button)<br>
 2. now this library will concatinate value of `data-newtheme` attribute of button with above listed values with (-) and generate classes. see below [example](#Example).
-3. you need to write color style for  generated classes for your custom theme in your css file only. see below [example](#Example) for generated classes.
+3. you need to write color style for  generated classes for your custom color theme in your css file. see below [example](#Example) for generated classes.
 
 ### Example
 

@@ -10,7 +10,7 @@ This library provides multiple color themes for websites.it has pre-design `dark
 
 ## Installation
 
-Using npm
+### Using npm
 
 ```sh
 npm i @sonuyadav51/theme

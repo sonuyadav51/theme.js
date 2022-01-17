@@ -222,7 +222,7 @@ this example has custom data-type values too. see in following example.
 </body>
 ```
 
-### write styles for generated clases in your css file
+### write styles for generated clases for rend and drakula theme in your css file
 
 ```css
 /*  ================ GENERATED CLASSES BY LIBRARY WITH data-newtheme="red" VALUE ====================== */
@@ -253,7 +253,7 @@ this example has custom data-type values too. see in following example.
 .red-footer {
   /* this will change background color of footer */
 }
-/* ======== CUSTOM CLASSES */
+/* ======== CUSTOM CLASSES ===========*/
 .red-mybox {
   /* write your css here */
 }
@@ -288,7 +288,7 @@ this example has custom data-type values too. see in following example.
 .drakula-footer {
   /* this will change background color of footer */
 }
-/* ======== CUSTOM CLASSES */
+/* ======== CUSTOM CLASSES ===========*/
 .drakula-mybox {
   /* write your css here */
 }

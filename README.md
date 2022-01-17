@@ -116,7 +116,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 }
 ```
 
-Note: You can generate your custom classes too for any specific HTML elements which will be added to this specific element when you toggle custom color theme.
+Note: You can generate your custom classes  for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
 [see example of generating custom classes](#generate-custom-classes).
 
 ##### add a custom drakula theme.
@@ -157,7 +157,7 @@ Note: You can generate your custom classes too for any specific HTML elements wh
 }
 ```
 
-Note: You can generate your custom classes too for any specific HTML elements which will be added to this specific element when you toggle custom color theme.
+Note: You can generate your custom classes  for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
 [see example of generating custom classes](#generate-custom-classes).
 
 - You can have both these above color theme in your website at a same time. write all these css classes code in your stylesheet and both button in your html file. [see a full example of multiple custom theme](#full-example-for-multiple-custom-theme).

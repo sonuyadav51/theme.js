@@ -54,7 +54,7 @@ Note: `lightTheme: true` can change the color of your website's elemetns on whic
 
 ## add custom multiple color themes
 
-This library autometic generate classes with the value of attribute `data-newtheme` of toggle button.
+This library autometic generates classes with the value of attribute `data-newtheme` of toggle button.
 this library takes this attribute value and concatinate it with (-) with following values
 `bg` `box` `header` `nav` `text` `heading` `link` `list` `footer` and generate classes which will append to html elements according to these value type.
 
@@ -74,7 +74,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 
 1. add a button for toggling your custom color theme with `data-newtheme`, `data-beforetitle, data-aftertitle` attribute. Here `data-newtheme` attribute is `required` other two are optional.[know more about toggle button](#toggle-button)<br>
 2. now this library will concatinate value of `data-newtheme` attribute of button with above listed values with (-) and generate classes. see below [example](#Example).
-3. you need to write color for your custom theme in your css file only. see below [example](#Example) for generated classes.
+3. you need to write color style for this generated classes for your custom theme in your css file only. see below [example](#Example) for generated classes.
 
 ### Example
 
@@ -83,6 +83,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 1. add a toggle button with `data-newtheme="red"` in your html file.
    `<button data-newtheme="red" data-beforetitle="change to red" data-aftertitle="change to light">change to red </button>`
 2. now this library will concatinate value `red` of `data-newtheme` attribute of button with above listed values with (-) and generate following classes.
+3. write your own color to following classes for red theme.
 
 ```css
 /*  ================ GENERATED CLASSES BY LIBRARY WITH data-newtheme="red" VALUE ====================== */
@@ -123,6 +124,7 @@ Note: You can generate your custom classes too for any specific HTML elements wh
 1. add a toggle button with `data-newtheme="drakula"` in your html file.
    `<button data-newtheme="drakula" data-beforetitle="change to drakula theme" data-aftertitle="change to light">change to drakula theme </button>`
 2. now this library will concatinate value `drakula` of `data-newtheme` attribute of button with above listed values with (-) and generate following classes.
+3. write your own color to following classes for drakula theme.
 
 ```css
 /*  ================ GENERATED CLASSES BY LIBRARY WITH data-newtheme="drakula" VALUE ==================== */

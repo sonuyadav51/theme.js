@@ -1,6 +1,6 @@
 # theme.js
 
-![npm](https://img.shields.io/npm/v/@sonuyadav51/theme)
+![https://img.shields.io/npm/v/@sonuyadav51/theme]
 ![npm](https://img.shields.io/npm/dw/@sonuyadav51/theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sonukyadav51?style=social)
@@ -74,7 +74,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 
 1. add a button for toggling your custom color theme with `data-newtheme`, `data-beforetitle, data-aftertitle` attribute. Here `data-newtheme` attribute is `required` other two are optional.[know more about toggle button](#toggle-button)<br>
 2. now this library will concatinate value of `data-newtheme` attribute of button with above listed values with (-) and generate classes. see below [example](#Example).
-3. you need to write color style for  generated classes for your custom color theme in your css file. see below [example](#Example) for generated classes.
+3. you need to write color style for generated classes for your custom color theme in your css file. see below [example](#Example) for generated classes.
 
 ### Example
 
@@ -116,7 +116,7 @@ see below [step](#Steps-to-add-custom-multiple-color-theme) to add custom color 
 }
 ```
 
-Note: You can generate your custom classes  for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
+Note: You can generate your custom classes for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
 [see example of generating custom classes](#generate-custom-classes).
 
 ##### add a custom drakula theme.
@@ -157,7 +157,7 @@ Note: You can generate your custom classes  for any specific HTML elements too w
 }
 ```
 
-Note: You can generate your custom classes  for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
+Note: You can generate your custom classes for any specific HTML elements too which will be added to this specific element when you toggle custom color theme.
 [see example of generating custom classes](#generate-custom-classes).
 
 - You can have both these above color theme in your website at a same time. write all these css classes code in your stylesheet and both button in your html file. [see a full example of multiple custom theme](#full-example-for-multiple-custom-theme).

@@ -1,6 +1,6 @@
 # theme.js
 
-![npm](https://img.shields.io/npm/v/@sonuyadav51/theme)
+[![npm](https://img.shields.io/npm/v/@sonuyadav51/theme)](https://www.npmjs.com/package/@sonuyadav51/theme)
 ![npm](https://img.shields.io/npm/dw/@sonuyadav51/theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sonukyadav51?style=social)

@@ -1,0 +1,37 @@
+{
+  "name": "@sonuyadav51/theme",
+  "version": "1.0.0",
+  "description": "add multiple color theme in your website in few seconds",
+  "main": "lib/theme.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonuyadav51/theme.js.git"
+  },
+  "keywords": [
+    "darkmode",
+    "darktheme",
+    "lightmode",
+    "lighttheme",
+    "dark",
+    "light",
+    "dark-mode",
+    "light-mode",
+    "theme-change",
+    "theme",
+    "background",
+    "background-color",
+    "javascript"
+  ],
+  "author": "Sonu Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonuyadav51/theme.js/issues"
+  },
+  "homepage": "https://github.com/sonuyadav51/theme.js#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@sonuyadav51/theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add multiple color theme in your website in few seconds",
   "main": "lib/theme.js",
   "directories": {

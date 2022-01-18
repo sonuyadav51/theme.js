@@ -1,6 +1,7 @@
 # theme.js
 
 [![npm](https://img.shields.io/npm/v/@sonuyadav51/theme)](https://www.npmjs.com/package/@sonuyadav51/theme)
+[![npm](https://img.shields.io/npm/dw/@sonuyadav51/theme)](https://www.npmjs.com/package/@sonuyadav51/theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sonukyadav51?style=social)](https://twitter.com/sonukyadav51)
 
@@ -67,7 +68,7 @@ this library takes this attribute value and concatinate it with (-) with followi
 `bg` `box` `header` `nav` `text` `heading` `link` `list` `footer` and generate classes which will append to html elements according to these value type.
 
 - `bg` generated classes with `bg` will added to `body` `main` tag.
-- `box` generated classes with `box` will added to  `input` `textarea` tag.
+- `box` generated classes with `box` will added to `input` `textarea` tag.
 - `header` generated classes with `header` will added to `header` tag.
 - `nav` generated classes with `nav` will added to `nav` tag.
 - `text` generated classes with `text` will added to `p` `td` and `span` tag.

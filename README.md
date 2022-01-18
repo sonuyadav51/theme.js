@@ -17,6 +17,10 @@ This library provides multiple color themes for websites.it has pre-design `dark
 npm i @sonuyadav51/theme
 ```
 
+## Demo
+
+[https://sonuyadav51.github.io/courseEnrrolment/index.html](https://sonuyadav51.github.io/courseEnrrolment/index.html)
+
 ## How To Use
 
 just add following code in your javascript file or script tag. <br>
